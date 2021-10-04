@@ -9,7 +9,7 @@ public class Test {
         Node.insert(new Node(4));
         Node.insert(new Node(5));
         Node.insert(new Node(6));
-        //Node.bl(Node.headNode);
+        Node.bl(Node.headNode);
 
         Node node = Node.reverse(Node.headNode);
 
